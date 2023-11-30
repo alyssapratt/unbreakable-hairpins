@@ -1,1 +1,1 @@
-# unbreakable-hairpins
+This repository contains code used in characterizing unbreakable hairpins: hairpins that retain structure despite repeated Altschul-Erickson dinucleotide shuffles. There is also a script to calculate the number of unique sequences generatable by dinucleotide shuffling. See more at https://hendrixlab.cgrb.oregonstate.edu/. 
