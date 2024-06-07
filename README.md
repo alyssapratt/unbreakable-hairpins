@@ -5,3 +5,6 @@ Instructions for running count_unique_paths.py (tested on Python 3.6+)
 Requires Biopython and Numpy
 
 Run "python3 count_unique_paths.py [RNA sequence]"
+
+
+#TODO: Add steps for producing hairpins and finding unbreakables, then runnning analyses
